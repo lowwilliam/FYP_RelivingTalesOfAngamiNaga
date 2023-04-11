@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Rain2
+  - Water
+  - UI
+  - Rain1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2624115595
+    locked: 0
+  - name: Background above tree
+    uniqueID: 1569122951
+    locked: 0
+  - name: Collectable
+    uniqueID: 4131743813
+    locked: 0
+  - name: NPC
+    uniqueID: 1919491559
+    locked: 0
+  - name: Player
+    uniqueID: 582892155
+    locked: 0
