@@ -1,7 +1,7 @@
 # FYP_RelivingTalesOfAngamiNaga
 
 ## Game Introduction
-The Revliving Tales of Angami Naga is an immersive Role-playing game(RPG) set in the beautiful and culturally-rich environment of Nagaland. 
+The Revliving Tales of Angami Naga is a pixel immersive Role-playing game(RPG) set in the beautiful and culturally-rich environment of Nagaland. 
 
 As a young descendant of the Angami tribe, you have returned home to uncover the mysteries behind some strange happenings that are affecting your tribe. These mysteries are closely linked to the age-old Tenyidie folktales of the Angami people.
 
@@ -12,6 +12,8 @@ Our goal is to encourage young adults in Angami to develop an interest in learni
 ## Unity Version
 This game uses 2021.3.16f1 for development.
 
+## Device and Target Audience
+This game is a PC game for young Angami adults and global audience.
 
 ## Accomplishment
 ### Empathize (Work with design partner)
